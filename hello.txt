@@ -5,4 +5,8 @@ hello atguigu! hello git 55555
 hello atguigu! hello git 6666
 hello atguigu! hello git 777 hot-fix msg
 hello atguigu! hello git 88 master test
+<<<<<<< HEAD
 hello atguigu.................fufenzhi
+=======
+hello atguigu! hello git 86 master test
+>>>>>>> master
